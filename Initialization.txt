@@ -1,4 +1,6 @@
 *Get to Know Me!*
+
+Helloww~~
 I’m a newcomer here with a background in Telecommunication Engineering. 
 I am starting my journey into IoT and web development, and 
 I hope to build large-scale projects in the future!
